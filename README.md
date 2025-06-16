@@ -6,7 +6,7 @@
 It helps users input their medical prescription and get:
 - Understanding about your medications
 - Track prescriptions
-- Connect to your calendars and set alarms for drug usage
+- Connect to your calendars and set alarms for medication usage
 - Stay informed about potential interactions and side effects
 - Quick answers to medical questions
 
